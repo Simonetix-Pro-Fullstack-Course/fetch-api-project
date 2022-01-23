@@ -1,4 +1,4 @@
-# TP Final Js - React
+# API - Project
 
 * Generar una página según el modelo del mockup, tanto mobile, como desktop (ejemplo real: https://screeching-field.surge.sh/).
 * La API para extraer la información es:  
@@ -105,22 +105,12 @@ Ejemplo:  si hacemos un fetch a https://airports-dpvsjndcod.now.sh/city/EZE obte
 Y vamos a utilizar la propiedad **state** para mostrar el nombre de la ciudad destino/origen.
 
 ### Requerimientos
-* React
 * SASS
 * Buena organización de carpetas
 * Buena tabulación del código
 * Respetar el diseño propuesto
-* Para los íconos se debe utilizar la librería FontAwesome: https://fontawesome.com/
+* Para los íconos se debe utilizar la librería FontAwesome: https://fontawesome.com
 
-Para usar los íconos de FontAwesome en React, necesitamos instalar una librería extra, y utilizar los íconos que esa librería nos proporciona.  
-En consola:
-```bash
-npm install @fortawesome/free-brands-svg-icons
-```
-Para importar:
-```js
-import {faFacebook} from '@fortawesome/free-brands-svg-icons
-```
 
 ### **Fuente**
 ```css
