@@ -15,9 +15,8 @@ https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-s
 ![Screen 3](./screenshots/03.jpg)
   7. We copy and save BOTH data, since we will need them later.
 * The screens that we are going to have are the following:
-  1. Home, with search form: [Home Desktop](./vistas/desktop_1_home.png)
-  2. List of results: [Desktop search result](./views/result.png)
-  3. Flight detail: [Checkout Desktop](./vistas/checkout.png)
+  1. Home, with search form: [Home Desktop](./API/vistas/desktop_1_home.png);
+  2. List of results: [Desktop search result](./API/vistas/results.png);
 
 ## API Description
 When we go to the results page, we need to fetch the Amadeus API. The URL we are going to use is:
